@@ -8,6 +8,9 @@
 ### [1장 : Hello, Concurrent World!](./Chapter1/README.md)
 - 프로세스, 스레드, 코루틴
 - 코틀린에서의 동시성
+- CPU 바운드와 I/O 바운드
+- CPU 바운드 알고리즘에서의 동시성과 병렬성
+- 동시성이 어려운 이유
 
 ### [2장 : 코루틴 인 액션](./Chapter2/README.md)
 - 안드로이드의 UI 스레드
